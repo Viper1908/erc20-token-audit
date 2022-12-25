@@ -1,5 +1,5 @@
 
-# 5IRE ERC20 Token project
+# 5IRE ERC20 Token project audit
 
 ```shell
   npm install
